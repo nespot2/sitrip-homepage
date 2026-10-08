@@ -278,8 +278,9 @@ a { color: inherit; text-decoration: none; }
   line-height: 1.6;
   color: var(--label-alternative);
 }
+.product__cta { margin-top: 32px; }
 .note {
-  margin-top: 20px;
+  margin-top: 16px;
   font-size: 13px;
   color: var(--label-assistive);
 }
@@ -331,7 +332,8 @@ a { color: inherit; text-decoration: none; }
   .hero__actions .btn { width: 100%; }
   .section { padding: 64px 0; }
   .section__title { font-size: 28px; }
-  .contact .btn { width: 100%; }
+  .contact .btn,
+  .product__cta .btn { width: 100%; }
   .highlight { padding: 24px; }
   .highlight__title { font-size: 24px; }
 }
