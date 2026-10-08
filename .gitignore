@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+*.log
+.env*
+# never commit personal documents
+*.jpg
+*.jpeg
+*.heic
+*.pdf
+!public/**/*.jpg
