@@ -28,5 +28,6 @@ Source: https://www.figma.com/community/file/1355516515676178246/wanted-design-s
 ## Content
 
 - sitrip: 여행에 필요한 모든 서비스를 만드는 회사. First product: 여행 가계부 (in development).
+- **AI 검색 is the core feature** of 여행 가계부 (ask about your spending in natural language). Keep it the most prominent feature (`.highlight` block in the Product section).
 - Contact: nespot2@sitrip.co.kr
 - Page copy is Korean; keep the tone short and plain.
