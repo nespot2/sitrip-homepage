@@ -214,6 +214,7 @@ a { color: inherit; text-decoration: none; }
   line-height: 1.6;
   color: var(--label-alternative);
 }
+.card__desc a { color: var(--primary-normal); font-weight: 600; }
 
 /* Product */
 .product__head { display: flex; align-items: center; gap: 12px; }

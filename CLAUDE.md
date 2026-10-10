@@ -31,3 +31,4 @@ Source: https://www.figma.com/community/file/1355516515676178246/wanted-design-s
 - **AI 검색 is the core feature** of 여행 가계부 (ask about your spending in natural language). Keep it the most prominent feature (`.highlight` block in the Product section).
 - Contact: nespot2@sitrip.co.kr
 - Page copy is Korean; keep the tone short and plain.
+- The `#en` section ("In English", `lang="en"`) is a short English summary for overseas reviewers (startup programs such as Cloudflare for Startups). When the Korean product copy changes, update `#en` to match. It must not outrank the AI 검색 `.highlight` block.
